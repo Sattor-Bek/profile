@@ -106,7 +106,6 @@ opacity:0.5;
 
 ul,ol {
   list-style-type: none;
-  text-align: left;
   }
 
 @media (max-width: 845px) {
